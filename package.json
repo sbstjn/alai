@@ -3,12 +3,21 @@
   "version": "1.0.0",
   "description": "Get AWS Account ID in AWS Lambda context",
   "main": "index.js",
+  "homepage": "https://github.com/sbstjn/alai",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/sbstjn/alai.git"
+  },
   "scripts": {
     "test": "./node_modules/.bin/mocha spec.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "aws",
+    "aws-lambda",
+    "lambda"
+  ],
+  "author": "Sebastian Müller <mail@sbstjn.com",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
