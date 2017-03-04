@@ -1,12 +1,12 @@
 {
   "name": "alai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get AWS Account ID in AWS Lambda context",
   "main": "index.js",
   "homepage": "https://github.com/sbstjn/alai",
-  "repository" : { 
-    "type" : "git",
-    "url" : "https://github.com/sbstjn/alai.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbstjn/alai.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha spec.js"
