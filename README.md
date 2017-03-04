@@ -16,3 +16,11 @@ module.exports.handler = function(event, context, callback) {
   );
 };
 ```
+
+## License
+
+Feel free to use the code, it's released using the [MIT license](https://github.com/sbstjn/alai/blob/master/LICENSE.md).
+
+## Contributors
+
+- [Sebastian Müller](https://sbstjn.com)
