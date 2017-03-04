@@ -1,0 +1,16 @@
+{
+  "name": "alai",
+  "version": "0.0.0",
+  "description": "Get AWS Account ID in AWS Lambda context",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
